@@ -1,4 +1,5 @@
 ### MariaDB Galera_cluster Maxscale 공부정리
+notion:https://wind-dewberry-ca7.notion.site/Galeracluster-Maxscale-1060330e228e8036a6eaf011ed38db7f?pvs=4
 ---
 
 
