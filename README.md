@@ -1,7 +1,7 @@
 ### MariaDB Galera_cluster Maxscale 공부정리
 ---
 
-<aside>
+
 💡 **Galera Cluster**
 
 - **Mysql & MariaDB 지원**
@@ -19,5 +19,5 @@
 - **반동기: 한개의 복제본이라도 데이터를 받았는지는 확인함.**
 - **동기 : 모든노드가 트랜잭션을 받았는지를 확인**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7540eda1-50b0-4704-924e-78f9872ec9b8/f4421e3c-0bce-462b-8fb8-ebafbf49dec4/image.png)
+
 
